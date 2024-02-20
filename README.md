@@ -1,8 +1,19 @@
-# React + Vite
+# UseEffect assignment-1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Write a component that takes a todo id as an input and fetches the data for that todo from the given endpoint and then renders it.
+
+        fetach data ---> https://sum-server.100xdevs.com/todo?id=1
+
+`Check point` : How would the dependency array change? 
+
+[should it change or remain same].
+
+
+
+
+ 
+ - make change in the code to appear as below and up on clicking the button it shoud cahnge the output data of that particular button.
+
+ 
